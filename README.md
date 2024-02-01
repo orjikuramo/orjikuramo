@@ -1,6 +1,7 @@
-#Hi there, welcome to my github page 👋
+# Hi there, welcome to my github page 👋
 -----
-###My name is Orji
+### My name is Orji
+
 🔭 I’m a self-taught Data Analyst proficient in Excel, Power BI, SQL, Visual Studio, and Google Sheets
 🌱 I’m always upskilling my Data Analytics skills
 👯 I’m looking for Data Analytics and Business Intelligence roles (Internship, Freelancing, Remote and Permanent roles)
