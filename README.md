@@ -2,7 +2,7 @@
 -----
 ### My name is Orji
 
-🔭 I’m a self-taught Data Analyst proficient in Excel, Power BI, SQL, Visual Studio, and Google Sheets.
+🔭 I’m a Data Analyst proficient in Excel, Power BI, SQL, Visual Studio, and Google Sheets.
 
 🌱 I’m always upskilling my Data Analytics skills.
 
