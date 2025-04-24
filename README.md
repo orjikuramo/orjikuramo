@@ -2,11 +2,11 @@
 -----
 ### My name is Orji
 
-🔭 I’m a Data Analyst proficient in Excel, Power BI, SQL, Visual Studio, and Google Sheets.
+🔭 I’m working on several projects using SQL, Excel, Python and Power BI. I have suddenly understood I have to push myself to more people instead of winning in my corner, hence my sudden usage of GitHub, medium and LinkedIn blog. 
 
 🌱 I’m always upskilling my Data Analytics skills.
 
-👯 I’m looking for Data Analytics and Business Intelligence roles (Internship, Freelancing, Remote and Permanent roles)
+👯 I’m looking to collaborate on any data analysis project. I’m looking for help with remote jobs or maybe any freelance or hybrid jobs.
 
 💬 Let's discuss data
 
